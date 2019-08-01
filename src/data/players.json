@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "image": "https://github.com/jabdulw786/HW15-ClickyGame/raw/master/src/imgs/busquet.png",
+        "color": "red"
+    },
+    {
+        "id": 2,
+        "image": "https://github.com/abdulw786/HW15-ClickyGame/raw/master/src/imgs/messi.png",
+        "color": "blue"
+    },
+    {
+        "id": 3,
+        "image": "https://github.com/abdulw786/HW15-ClickyGame/raw/master/src/imgs/alba.png",
+        "color": "black"
+    },
+    {
+        "id": 4,
+        "image": "https://github.com/abdulw786/HW15-ClickyGame/raw/master/src/imgs/denbele.png",
+        "color": "gray"
+    },
+    {
+        "id": 5,
+        "image": "https://github.com/abdulw786/HW15-ClickyGame/raw/master/src/imgs/insta.png",
+        "color": "green"
+    },
+    {
+        "id": 6,
+        "image": "https://github.com/abdulw786/HW15-ClickyGame/raw/master/src/imgs/pique.png",
+        "color": "coral"
+    },
+    {
+        "id": 7,
+        "image": "https://github.com/abdulw786/HW15-ClickyGame/raw/master/src/imgs/puyol.png",
+        "color": "orange"
+    },
+    {
+        "id": 8,
+        "image": "https://github.com/abdulw786/HW15-ClickyGame/raw/master/src/imgs/rakitic.png",
+        "color": "purple"
+    },
+    {
+        "id": 9,
+        "image": "https://github.com/abdulw786/HW15-ClickyGame/raw/master/src/imgs/ronaldinho.png",
+        "color": "aqua"
+    },
+    {
+        "id": 10,
+        "image": "https://github.com/abdulw786/HW15-ClickyGame/raw/master/src/imgs/suarez.png",
+        "color": "white"
+    },
+    {
+        "id": 11,
+        "image": "https://github.com/abdulw786/HW15-ClickyGame/raw/master/src/imgs/xavi.png",
+        "color": "crimson"
+    },
+    {
+        "id": 12,
+        "image": "https://github.com/abdulw786/HW15-ClickyGame/raw/master/src/imgs/coutinho.png",
+        "color": "brown"
+    }
+]
