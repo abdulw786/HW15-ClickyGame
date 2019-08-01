@@ -1,10 +1,10 @@
 # HW15-ClickyGame
 
-# Heruko Deployed Link
+## Heruko Deployed Link
 
 https://news--scrapers.herokuapp.com
 
-## Overview
+### Overview
 In this project, I created a simple memory game with React. The goal here was to break up the application's UI into components, manage component state, and respond to user events.
 
 Instructions
