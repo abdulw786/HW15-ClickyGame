@@ -18,9 +18,9 @@ If the user clicks on an image they're already clicked on in the current round, 
 
 The application keeps track of the users Best Score, and updates it when the user achieves a new Best Score.
 
-Technologies Leveraged
-HTML
-CSS
-JavaScript
-Node.js
-React
+### Technologies Leveraged
+#### HTML
+#### CSS
+#### JavaScript
+#### Node.js
+#### React
